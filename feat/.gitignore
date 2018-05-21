@@ -1,0 +1,11 @@
+build/*
+*/build/*
+debug/*
+*/debug/*
+tags
+.ycm_extra_conf.py
+*.ipynb_checkpoint
+__pycache__
+*.so
+*.exe
+feat.egg-info

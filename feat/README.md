@@ -14,11 +14,6 @@ Feat uses the [Shogun C++ ML toolbox](http://shogun.ml) to fit models.
 
 Check out the [documentation](https://lacava.github.io/feat) for installation and examples. 
 
-## Acknowledgments
-
-This method is being developed to study human disease in the [Epistasis Lab
-at UPenn](http://epistasis.org). 
-
 ## License
 
 GNU GPLv3
